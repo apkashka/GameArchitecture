@@ -1,0 +1,14 @@
+[
+  {
+    "Id": "1",
+    "Name": "Elf",
+    "Health": "100",
+    "Damage": "20"
+  },
+  {
+    "Id": "2",
+    "Name": "Orc",
+    "Health": "120",
+    "Damage": "25"
+  }
+]

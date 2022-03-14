@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="429e5ed2-f209-421e-aaca-f33d263f2a96" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/CodeBase/Hero/InputUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../BPMobile/pop_it.io/Assets/_Scripts/_Managers/MData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.addressables@1.16.19/Runtime/AssetReference.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BC3985D3-7B02-41B4-8FC2-1474B2DE25BD/f6/308da216/JsonSerializer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6AF207EC-D210-4462-8913-F7CC589986AE/89/26b6a268/Input.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/LoadingCurtain.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/GameStateMachine.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/GameLoopState.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/BootstrapState.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/SceneLoader.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/IGameFactory.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/LoadLevelState.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/GameFactory.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/AssetManager/IAssets.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/Factory/IGameFactory.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Services/Input/IInputSevice.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/Game.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/AssetManager/AssetProvider.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/Services/PersistentProgress/PersistentProgressService.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/Data/LocalDataService.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/Data/PlayerProgress.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/Data/WorldData.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/Services/Input/LocalProgress/LocalDataService.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/Services/Input/InputService.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/Services/UserInput/InputService.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/SimpleInput/TempInput.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/Services/AllServices.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Hero/InputUser.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/States/LoadProgressState.cs" />
+      <option value="$PROJECT_DIR$/Assets/Data.json" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/Services/StaticDataService.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/Data/Units/UnitData.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/Factory/GameFactory.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/UI/WindowBase.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/Services/WindowService.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/UI/WindowService.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/UI/Service/WindowService.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/UI/LoadingCurtain.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/Services/LocalProgress/LocalDataService.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/UI/Service/WindowService.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/UI/Service/Windows/WindowId.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/UI/Service/Windows/WindowService.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/UI/Service/Windows/IWindowService.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/UI/Service/IUIFactory.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/Services/IStaticDataService.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/Services/StaticData/WindowConfig.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Data/WorldData.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Data/StaticData/WindowConfig.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Data/StaticData/Windows/WindowStaticData.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/Services/StaticData/StaticDataService.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/UI/Service/UIFactory.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/States/BootstrapState.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/States/LoadLevelState.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/UI/Windows/WindowBase.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/States/GameStateMachine.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodeBase/Data/StaticData/UnitData.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="25yJO8PkCdlWcOPARl8ctcayYUq" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="ReSpellerSettingsId" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="429e5ed2-f209-421e-aaca-f33d263f2a96" name="Default Changelist" comment="" />
+      <created>1646493360389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646493360389</updated>
+      <workItem from="1646493369959" duration="1735000" />
+      <workItem from="1646495265968" duration="14451000" />
+      <workItem from="1646550478231" duration="14986000" />
+      <workItem from="1646942059822" duration="4581000" />
+      <workItem from="1647010415874" duration="7509000" />
+      <workItem from="1647098802188" duration="1590000" />
+      <workItem from="1647267912336" duration="600000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/CodeBase/Hero/InputUser.cs</url>
+          <line>14</line>
+          <properties documentPath="C:\UnityProjects\UltimateArchitectureTemplate\Assets\CodeBase\Hero\InputUser.cs" initialLine="14" containingFunctionPresentation="method 'Awake'">
+            <startOffsets>
+              <option value="376" />
+            </startOffsets>
+            <endOffsets>
+              <option value="438" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/CodeBase/Hero/InputUser.cs</url>
+          <line>22</line>
+          <properties documentPath="C:\UnityProjects\UltimateArchitectureTemplate\Assets\CodeBase\Hero\InputUser.cs" initialLine="22" containingFunctionPresentation="method 'SaveData'">
+            <startOffsets>
+              <option value="628" />
+            </startOffsets>
+            <endOffsets>
+              <option value="648" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
