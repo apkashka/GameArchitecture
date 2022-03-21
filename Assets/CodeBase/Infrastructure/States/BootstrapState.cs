@@ -27,7 +27,6 @@ namespace CodeBase.Infrastructure.States
         
         private static void RegisterServices()
         {
-            _services.RegisterSingle<IInputService>(new InputService());
             _services.RegisterSingle<IAssets>(new AssetProvider());
             _services.RegisterSingle<LocalDataService>(new LocalDataService());
             //почему именно нужен интерфес???

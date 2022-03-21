@@ -13,7 +13,10 @@ namespace CodeBase.SimpleInput
             DontDestroyOnLoad(this);
 
             Observable.EveryUpdate().Where(_ => Input.GetMouseButtonDown(0))
-                .Subscribe(_ => ScreenTouched?.Invoke());
+                .Subscribe(_ =>
+                {
+                    ScreenTouched?.Invoke();
+                });
         }
     }
 }   

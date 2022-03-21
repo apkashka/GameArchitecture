@@ -1,3 +1,4 @@
+using CodeBase.Hero;
 using CodeBase.Infrastructure.AssetManager;
 
 namespace CodeBase.Infrastructure.Factory
@@ -12,7 +13,7 @@ namespace CodeBase.Infrastructure.Factory
         }
         public void CreateUnit()
         {
-           // _assets.Instantiate("unit");
+           // = _assets.Instantiate("Hero").GetComponent<InputUser>();
             
            // Debug.Log("Unit created");
         }

@@ -2,6 +2,7 @@ using CodeBase.Infrastructure.Services;
 using CodeBase.Infrastructure.Services.LocalProgress;
 using CodeBase.Infrastructure.Services.UserInput;
 using UnityEngine;
+using Zenject;
 
 namespace CodeBase.Hero
 {
@@ -10,12 +11,21 @@ namespace CodeBase.Hero
         private IInputService _inputService;
         private LocalDataService _data;
 
+        [Inject]
+        private void Construct(IInputService inputService)
+        {
+            _inputService = inputService;
+            _inputService.ScreenTouched += SaveData;
+        }
         private void Awake()
         {
-            _inputService = AllServices.Container.Single<IInputService>();
             _data = AllServices.Container.Single<LocalDataService>();
+        }
 
-            _inputService.ScreenTouched += SaveData;
+
+        private void OnDestroy()
+        {
+            _inputService.ScreenTouched -= SaveData;
         }
 
         private void SaveData()

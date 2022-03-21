@@ -20,13 +20,13 @@ namespace CodeBase.Infrastructure.States
   
         public void Enter(string sceneName)
         {
-            _gameFactory.CreateUnit();
             _curtain.Show();
             _sceneLoader.Load(sceneName, OnSceneLoaded);
         }
 
         private void OnSceneLoaded()
         { 
+            _gameFactory.CreateUnit();
             _stateMachine.Enter<GameLoopState>();
         }
 
